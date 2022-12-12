@@ -25,18 +25,6 @@ You can download the PDF and Epub version of this repository from the latest run
 
 ---
 
-<p align="center">
-  <a href=https://bit.ly/3Pf7EF9>
-    <img src="images/collab/codestudio-logo.svg" alt="Codestudio Logo">
-  </a>
-  <p align="center">
-    Explore the best free resource to learn JavaScript <a href=https://bit.ly/3Pf7EF9 target="_blank">here
-    Build your own projects & earn a free certification in just 25 days.
-  </p>
-</p>
-
----
-
 <div align="center">
     <p>
         <a href="https://www.youtube.com/watch?v=Zb4dPi7CANU">
